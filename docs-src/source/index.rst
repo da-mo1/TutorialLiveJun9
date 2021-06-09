@@ -11,7 +11,6 @@ Let's add some more text in there to describe the module.
 We can even add some math :math:'E=mc^2'
 
 .. toctree::
-    Installation
    :maxdepth: 2
    :caption: Contents:
 
